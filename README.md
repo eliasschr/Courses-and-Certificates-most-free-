@@ -12,7 +12,6 @@ A curated collection of **free** (and some paid) courses with optional or free c
 - [Netgear](#netgear)
 - [Cisco](#cisco)
 - [NDI](#ndi)
-
 ---
 
 ## 🚀 How to Use
