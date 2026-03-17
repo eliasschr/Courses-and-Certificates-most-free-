@@ -38,6 +38,9 @@ A curated collection of **free** (and some paid) courses with optional or free c
 
 ## 🏢 Companies & Courses
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=eliasschr/courses-and-certificates-most-free-@github)](https://gitads.dev/v1/ad-track?source=eliasschr/courses-and-certificates-most-free-@github)
+
 ### Audinate
 
 Courses around Dante, Audio-over-IP, and network audio.
