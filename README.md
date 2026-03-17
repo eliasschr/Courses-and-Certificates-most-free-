@@ -9,7 +9,7 @@ A curated collection of **free** (and some paid) courses with optional or free c
 ### Browse by Company
 
 - [Audinate](#audinate)
-- [More Companies (coming soon)](#more-companies-coming-soon)
+- [Netgear](#netgear)
 
 ---
 
@@ -53,9 +53,15 @@ Courses around Dante, Audio-over-IP, and network audio.
 - [Dante AVIO Adapters Course](https://audinate.talentlms.com/plus/catalog/courses/229) (english Version, different Languages are Available)
 - [Dante Domain Manager Course](https://audinate.talentlms.com/plus/catalog/courses/226) (english Version, different Languages are Available)
 
-### More Companies (coming soon)
+### Netgear
 
-- Additional providers such as AWS, Google, Microsoft, Cisco, and others can be added here.
+Courses around Networking. 
+
+- [Netgear Pro AV Level 1](https://academy.netgear.com/course/view.php?id=10) (english Version)
+- [Netgear Pro AV Level 2](https://academy.netgear.com/course/view.php?id=4) (english Version)
+- [Netgear Pro AV Level 3](https://academy.netgear.com/course/view.php?id=65) (coming soon)
+- [Netgear Broadcast ST2110](https://academy.netgear.com/course/view.php?id=11) (english version)
+
 
 ---
 
