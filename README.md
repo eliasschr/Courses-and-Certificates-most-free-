@@ -11,7 +11,7 @@ A curated collection of **free** (and some paid) courses with optional or free c
 - [Audinate](#audinate)
 - [Netgear](#netgear)
 - [Cisco](#cisco)
-
+- [NDI](#ndi)
 ---
 
 ## 🚀 How to Use
@@ -113,6 +113,14 @@ Kostenlose Kurse aus dem Lernkatalog ([category=course](https://www.netacad.com/
 - [English for IT 2](https://www.netacad.com/courses/english-for-it2?courseLang=en-US) (english Version, different Languages are Available)
 - [English for IT: Advice and Time](https://www.netacad.com/courses/english-advice-and-time?courseLang=en-US) (english Version, different Languages are Available)
 - [Introduction to Greenhouse Gas Accounting for IT](https://www.netacad.com/courses/introduction-to-greenhouse-gas-accounting-for-it?courseLang=en-US) (english Version, different Languages are Available)
+
+### NDI
+[NDI Community](https://community.ndi.video/my/)
+
+Courses around IP video and NDI workflows.
+
+- [NDI Basics](https://community.ndi.video/my/) (english Version)
+- [NDI Tools](https://community.ndi.video/my/) (english Version)
 
 ---
 
