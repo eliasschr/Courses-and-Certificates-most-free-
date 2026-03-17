@@ -12,6 +12,7 @@ A curated collection of **free** (and some paid) courses with optional or free c
 - [Netgear](#netgear)
 - [Cisco](#cisco)
 - [NDI](#ndi)
+- [MAlighting](#malighting)
 ---
 
 ## 🚀 How to Use
@@ -121,6 +122,12 @@ Courses around IP video and NDI workflows.
 
 - [NDI Basics](https://community.ndi.video/course/index.php?categoryid=2) (english Version)
 - [NDI Tools](https://community.ndi.video/course/index.php?categoryid=13) (english Version)
+
+### MAlighting
+
+Course about use of GrandMA
+
+- [grandMA3 user training](https://www.malighting.com/ma-university/ma-university/grandma3-user-training/)
 
 ---
 
