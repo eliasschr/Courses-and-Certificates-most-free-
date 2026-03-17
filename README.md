@@ -47,11 +47,11 @@ A curated collection of **free** (and some paid) courses with optional or free c
 
 Courses around Dante, Audio-over-IP, and network audio.
 
-- [Dante Certification Level 1](https://audinate.talentlms.com/plus/catalog/courses/260)
-- [Dante Certification Level 2](https://audinate.talentlms.com/plus/catalog/courses/261)
-- [Dante Certification Level 3](https://audinate.talentlms.com/plus/catalog/courses/262)
-- [Dante AVIO Adapters Course](https://audinate.talentlms.com/plus/catalog/courses/229)
-- [Dante Domain Manager Course](https://audinate.talentlms.com/plus/catalog/courses/226)
+- [Dante Certification Level 1](https://audinate.talentlms.com/plus/catalog/courses/260) (english Version, different Languages are Available)
+- [Dante Certification Level 2](https://audinate.talentlms.com/plus/catalog/courses/261) (english Version, different Languages are Available)
+- [Dante Certification Level 3](https://audinate.talentlms.com/plus/catalog/courses/262) (english Version, different Languages are Available)
+- [Dante AVIO Adapters Course](https://audinate.talentlms.com/plus/catalog/courses/229) (english Version, different Languages are Available)
+- [Dante Domain Manager Course](https://audinate.talentlms.com/plus/catalog/courses/226) (english Version, different Languages are Available)
 
 ### More Companies (coming soon)
 
