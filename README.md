@@ -1,15 +1,15 @@
-# 🎓 Courses & Certificates (mostly free)
+# 🎓 Courses & Certificates (Mostly Free)
 
-Eine kuratierte Sammlung von **kostenlosen** (und teilweise kostenpflichtigen) Kursen mit optionalen oder kostenlosen Zertifikaten.
+A curated collection of **free** (and some paid) courses with optional or free certificates.
 
 ---
 
 ## 🔎 Navigation
 
-### Nach Firma durchsuchen
+### Browse by Company
 
-- [Audinate](#-audinate)
-- [Weitere Firmen (coming soon)](#-weitere-firmen-coming-soon)
+- [Audinate](#audinate)
+- [More Companies (coming soon)](#more-companies-coming-soon)
 
 ---
 
@@ -18,20 +18,6 @@ Eine kuratierte Sammlung von **kostenlosen** (und teilweise kostenpflichtigen) K
 1. **Browse by company**
 2. **Choose a course**
 3. **Complete it and earn your certificate**
-
----
-
-## 🏢 Firmen & Kurse
-
-### 🎚️ Audinate
-
-Kurse rund um Dante, Audio-over-IP und Netzwerk-Audio.
-
-- *(Kurse hier eintragen, z. B. offizieller Dante Certification Program Link)*
-
-### 🧩 Weitere Firmen (coming soon)
-
-- Hier können weitere Anbieter wie z. B. AWS, Google, Microsoft, Cisco usw. ergänzt werden.
 
 ---
 
@@ -50,4 +36,18 @@ Kurse rund um Dante, Audio-over-IP und Netzwerk-Audio.
 
 ---
 
-> 💡 Tipp: Wenn du einen neuen Kurs ergänzt, ordne ihn direkt unter der passenden Firma ein, damit die Navigation übersichtlich bleibt.
+## 🏢 Companies & Courses
+
+### Audinate
+
+Courses around Dante, Audio-over-IP, and network audio.
+
+- *(Add courses here, e.g., the official Dante Certification Program link)*
+
+### More Companies (coming soon)
+
+- Additional providers such as AWS, Google, Microsoft, Cisco, and others can be added here.
+
+---
+
+> 💡 Tip: When adding a new course, place it under the matching company to keep navigation clean and easy to use.
